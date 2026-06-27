@@ -16,4 +16,4 @@ This repository contains my projects in Python, Data Analytics, and Automation.
 - reports/ : outputs and insights
 
 ## Goal
-Build real-world data analytics skills for ICT and humanitarian data roles.
+Build real-world data analytics skills  data roles.
